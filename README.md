@@ -1,11 +1,11 @@
-# Workshop 2.1
+# Workshop 2.1: propagation of a cloud of pollutant in river
 
-*[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
+*Due: Wednesday, November 12, 2025.*
 
-*Written by: `Marcel Zijlema`*
+The objective of this workshop is to obtain insight into the time integration and space discretization of the **advection equation**.
+Please read the relevant section of Chapter *Numerical Methods for PDEs* of the MUDE book carefully beforehand to prepare for this workshop.
 
-*Due: `Wednesday`, `November` `12`, `2025`.*
+Complete the tasks in the notebook [ws09.ipynb](./ws09.ipynb).
+Please note that this notebook will be used as a preparation for the Group Assignment on Friday.
 
-The objective of this workshop is to obtain insight into the time integration and space discretization of the **advection equation**. In this respect, **accuracy** and **stability** play a major role.
-
-> Copyright 2025 MUDE, Delft University of Technology. This work is licensed under a CC BY 4.0 License
+> By Marcel Zijlema, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
