@@ -1,4 +1,4 @@
-# Workshop 2.1: Propagation of a cloud of pollutant in river
+# Workshop 2.1: Go with the Flow
 
 *Due: Wednesday, November 12, 2025.*
 
